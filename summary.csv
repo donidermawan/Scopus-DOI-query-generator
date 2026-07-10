@@ -1,0 +1,9 @@
+Batch,Filename,Start DOI,End DOI,DOIs
+1,query_001.txt,1,2000,2000
+2,query_002.txt,2001,4000,2000
+3,query_003.txt,4001,6000,2000
+4,query_004.txt,6001,8000,2000
+5,query_005.txt,8001,10000,2000
+6,query_006.txt,10001,12000,2000
+7,query_007.txt,12001,14000,2000
+8,query_008.txt,14001,14232,232
